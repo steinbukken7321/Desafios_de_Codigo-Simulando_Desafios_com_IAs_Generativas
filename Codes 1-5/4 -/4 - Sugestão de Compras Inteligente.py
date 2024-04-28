@@ -3,7 +3,7 @@ cogumelo_desejado = input()
 
 # Função para sugerir cogumelos com preços mais baixos com base em um cogumelo desejado.
 def sugerir_cogumelos(cogumelo_desejado):
-    # TODO: Defina um dicionário onde as chaves são os tipos 
+    # tODO: Defina um dicionário onde as chaves são os tipos 
     # de cogumelos e os valores são os preços correspondentes
     catalogo = {
         "Shitake": 10,
