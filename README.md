@@ -36,4 +36,4 @@ SOLUÇÕES PARA <code style="color : white">Desafios de Código - Simulando Desa
  - [Fluent Python: Clear, Concise, and Effective Programming – 10 maio 2022]
  - [Python Programming: An Introduction to Computer Science – Ilustrado, 8 agosto 2016]
  - [High Performance Python: Practical Performant Programming for Humans – Ilustrado, 9 junho 2020]
- - []
+ - [The C Programming Language. 2nd Edition Book by Brian W. Kernighan and Dennis M. Ritchie]
