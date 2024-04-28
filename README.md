@@ -1,13 +1,9 @@
-## <code style="color : gray">Created by Rafael Ziani de Carvalho 🖊️</code>
+## <code style="color : gray">Created by Rafael Ziani de Carvalho 🖊️</code> - BRAZIL 
 
-
-# BRAZIL 
-------------------
 ## DIO - Santander 2024 - AI Fundamentals for Devs
 
 
 SOLUÇÕES PARA <code style="color : white">Desafios de Código - Simulando Desafios com IAs Generativas</code>
-
 
 
 -----------------
