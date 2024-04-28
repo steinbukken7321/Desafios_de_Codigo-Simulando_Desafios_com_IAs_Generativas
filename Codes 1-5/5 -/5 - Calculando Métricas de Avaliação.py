@@ -3,9 +3,9 @@ def best_performance(matrices):
     best_index = 0
     best_accuracy = 0
     best_precision = 0
-    # TODO: Define Loop through each matrix to calculate metrics
+    # TOD0: Define Loop through each matrix to calculate metrics
     for index, matrix in enumerate(matrices):
-        # TODO: Define tp, fp fn and tn
+        # TOD0: Define tp, fp fn and tn
         tp = int(matrix[0])
         fp = int(matrix[1]) 
         fn = int(matrix[2])
@@ -30,7 +30,7 @@ for n in range(0, n):
     matrix = input()
     matrices.append(matrix.split(','))
 
-# TODO: Create a function to calculate accuracy and precision metrics
+# TOD0: Create a function to calculate accuracy and precision metrics
 index, accuracy, precision = best_performance(matrices)
 
 # Print the results
