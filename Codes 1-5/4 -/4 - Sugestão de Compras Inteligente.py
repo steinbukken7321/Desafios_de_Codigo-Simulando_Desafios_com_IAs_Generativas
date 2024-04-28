@@ -16,7 +16,7 @@ def sugerir_cogumelos(cogumelo_desejado):
 
     # Verifica se o cogumelo desejado estão no catálogo
     if cogumelo_desejado in catalogo:
-        # TODO: Se estiver no catálogo, armazene o preço do cogumelo 
+        # TOD0: Se estiver no catálogo, armazene o preço do cogumelo 
         # desejado e crie uma lista vazia para as sugestões
         valor_desejado = catalogo[cogumelo_desejado] 
         sugestoes = []
@@ -30,13 +30,13 @@ def sugerir_cogumelos(cogumelo_desejado):
                     break
         
         if not sugestoes:
-            # TODO: Se não houver sugestões, exiba a mensagem indicada no enunciado
+            # TOD0: Se não houver sugestões, exiba a mensagem indicada no enunciado
             print("Desculpe, não há sugestões disponíveis.")
         else:
             for sugestao, valor_sugestao in sugestoes:
                 print(f"{sugestao} - Valor: {valor_sugestao}")
     else:
-        # TODO: Se o cogumelo desejado não estiver no catálogo, exiba uma 
+        # TOD0: Se o cogumelo desejado não estiver no catálogo, exiba uma 
         # mensagem de erro indicada no enunciado
         print("Cogumelo não encontrado no catálogo.")
 
