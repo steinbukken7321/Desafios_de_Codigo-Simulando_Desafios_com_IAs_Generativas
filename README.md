@@ -19,7 +19,7 @@ SOLUÇÕES PARA <code style="color : white">Desafios de Código - Simulando Desa
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-## Contacts
+## CONTATOS
 
 [@Rafael Ziani de Carvalho](https://www.github.com/steinbukken7321)
 
